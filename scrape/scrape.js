@@ -1,13 +1,12 @@
-// scrape.js
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 const randomUseragent = require("random-useragent");
 
 async function scrapeWebsite(url) {
   const browser = await puppeteer.launch({
-    headless: false, // Set to true if you want headless mode (no UI)
-    defaultViewport: null, // Fullscreen mode
-    args: ["--start-maximized"], // Maximized window
+    headless: true, // Run in headless mode
+    defaultViewport: null,
+    args: ["--no-sandbox", "--disable-setuid-sandbox", "--start-maximized"], // Add these args
   });
 
   const page = await browser.newPage();
@@ -19,7 +18,7 @@ async function scrapeWebsite(url) {
 
   // Go to the URL (either static or passed as a parameter)
   await page.goto(url, {
-    waitUntil: "networkidle0", // Wait for the page to load completely
+    waitUntil: "networkidle0",
     timeout: 0,
   });
 
