@@ -3,9 +3,14 @@ const scrapeWebsite = require("./scrape/scrape"); // Import the scrape function
 const scrapeWebsite_second = require("./scrape/scrape_second");
 const app = express();
 const port = process.env.PORT || 3000;
+const cors=require("cors");
 
 // Middleware to parse JSON bodies (for POST requests)
 app.use(express.json());
+app.use(cors());
+app.use(cors({
+  origin: '*'
+}));
 
 // GET method - Test endpoint
 app.get("/", (req, res) => {
