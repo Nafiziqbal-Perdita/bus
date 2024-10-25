@@ -34,7 +34,7 @@ const url = `https://www.shohoz.com/booking/bus/search?fromcity=${from}&tocity=$
 
   // Set a random user agent
   const userAgent = randomUseragent.getRandom();
-  console.log("Using User Agent: ", userAgent);
+//   console.log("Using User Agent: ", userAgent);
   await page.setUserAgent(userAgent);
 
   // Go to the URL (either static or passed as a parameter)
