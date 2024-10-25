@@ -27,10 +27,17 @@ app.get("/scrape", async (req, res) => {
   try {
     // Call the scrapeWebsite function from scrape.js
     console.log("Welcome to Bus Express server!");
-    const [data_1, data_2] = await Promise.all([
-      scrapeWebsite(from.toLowerCase(), to.toLowerCase(), date),
-      scrapeWebsite_second(from.toLowerCase(), to.toLowerCase(), date),
-    ]);
+
+    const data_1 = await scrapeWebsite(
+      from.toLowerCase(),
+      to.toLowerCase(),
+      date
+    );
+    const data_2 = await scrapeWebsite_second(
+      from.toLowerCase(),
+      to.toLowerCase(),
+      date
+    );
 
     const scrapedData = [...data_1, ...data_2];
 
