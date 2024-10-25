@@ -1,6 +1,6 @@
 const express = require('express');
 const scrapeWebsite = require('./scrape/scrape'); // Import the scrape function
-
+const scrapeWebsite_second=require("./scrape/scrape_second");
 const app = express();
 const port = process.env.PORT || 3000;
 
@@ -14,11 +14,21 @@ app.get('/', (req, res) => {
 
 // GET method - Trigger scraping with a predefined URL
 app.get('/scrape', async (req, res) => {
-    const url = "https://bdtickets.com/bus/search/dhaka-to-barisal?journeyDate=2024-10-26"; // Static URL for this example
+
+
+    const { from, to, date } = req.query; // Extract parameters from the query
+    console.log(from);
+    console.log(to);
+    console.log(date);
+    if (!from || !to || !date) {
+        return res.status(400).json({ error: 'From, to, and date parameters are required.' });
+    }
+
 
     try {
         // Call the scrapeWebsite function from scrape.js
-        const scrapedData = await scrapeWebsite(url);
+        // const scrapedData = await scrapeWebsite(from.toLowerCase(),to.toLowerCase(),date);
+        const scrapedData = await scrapeWebsite_second(from.toLowerCase(),to.toLowerCase(),date);
         
         // Respond with the scraped data
         res.json(scrapedData);
@@ -28,25 +38,8 @@ app.get('/scrape', async (req, res) => {
     }
 });
 
-// POST method - Trigger scraping based on provided URL
-app.post('/scrape', async (req, res) => {
-    const { url } = req.body;
-    
-    if (!url) {
-        return res.status(400).json({ error: 'URL is required' });
-    }
 
-    try {
-        // Use scrapeWebsite to handle the scraping
-        const scrapedData = await scrapeWebsite(url);
-        
-        // Respond with the scraped data
-        res.json(scrapedData);
-    } catch (error) {
-        console.error('Error during scraping:', error);
-        res.status(500).json({ error: 'Failed to scrape the website' });
-    }
-});
+
 
 // Start the Express server
 app.listen(port, () => {

@@ -2,7 +2,13 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 const randomUseragent = require("random-useragent");
 
-async function scrapeWebsite(url) {
+async function scrapeWebsite(from,to,date) {
+
+  const url = `https://bdtickets.com/bus/search/${from}-to-${to}?journeyDate=${date}`; 
+
+
+
+
   const browser = await puppeteer.launch({
     headless: true, // Run in headless mode
     defaultViewport: null,
@@ -52,19 +58,8 @@ async function scrapeWebsite(url) {
     return items;
   });
 
-  // Convert the scraped data to a JSON string
-  const jsonContent = JSON.stringify(ticketItems, null, 2);
 
-  // Write the data to a file
-  fs.writeFileSync("ticketData.json", jsonContent, "utf8", (err) => {
-    if (err) {
-      console.log("An error occurred while writing JSON to file:", err);
-    } else {
-      console.log("JSON data has been saved.");
-    }
-  });
 
-  console.log("Data has been saved to ticketData.json");
 
   await browser.close();
   

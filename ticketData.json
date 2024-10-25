@@ -1,842 +1,1242 @@
 [
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "5:00 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Maleker Bari",
-    "start_time": "5:30 AM",
-    "seats": "31 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "HANIF ENTERPRISE",
-    "type": "NON_AC",
-    "starting_point": "Saydabad 1",
-    "start_time": "05:30 AM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
-    "start_time": "5:40 AM",
-    "seats": "32 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "WELCOME EXPRESS",
-    "type": "Non AC",
-    "starting_point": "Kocukhet",
-    "start_time": "5:40 AM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "ROYAL PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "mirpur Kochukhet",
-    "start_time": "5:45 AM",
-    "seats": "4 Seats Available",
-    "money": "N/A"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "5:45 AM",
-    "seats": "36 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Nabinagar",
+    "starting_point": "Kallyanpur",
     "start_time": "6:00 AM",
-    "seats": "31 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "6:00 AM",
-    "seats": "39 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "HANIF ENTERPRISE",
-    "type": "NON_AC",
-    "starting_point": "Saydabad B 10",
-    "start_time": "06:00 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
-    "start_time": "6:15 AM",
     "seats": "33 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "6:15 AM",
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 6",
+    "start_time": "06:00 AM",
     "seats": "38 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Technical",
+    "starting_point": "Kallayanpur",
+    "start_time": "6:01 AM",
+    "seats": "33 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
     "start_time": "6:15 AM",
-    "seats": "36 Seats Available",
-    "money": "৳600.00"
+    "seats": "28 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SONARTORI PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Raenkhula ( Commerce college)",
-    "start_time": "6:15 AM",
-    "seats": "21 Seats Available",
-    "money": "৳650.00"
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur [KP 4]",
+    "start_time": "06:15 AM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SHYAMOLI NR TRAVELS",
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
-    "start_time": "6:15 AM",
-    "seats": "20 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "starting_point": "Mohakhali",
     "start_time": "6:30 AM",
-    "seats": "35 Seats Available",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "06:45 AM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "7:00 AM",
+    "seats": "34 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "7:00 AM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "07:00 AM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Bijoynagar Bus Point",
+    "start_time": "07:15 AM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali -",
+    "start_time": "7:30 AM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "AL-MOBARAK TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Square Masterbari - Bhaluka",
+    "start_time": "7:30 AM",
+    "seats": "45 Seats Available",
     "money": "৳500.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "7:45 AM",
+    "seats": "31 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "7:45 AM",
+    "seats": "22 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "8:00 AM",
+    "seats": "34 Seats Available",
+    "money": "৳690.00"
   },
   {
     "name": "SHYAMOLI NR TRAVELS",
     "type": "Non AC",
-    "starting_point": "Abdullapur",
-    "start_time": "6:30 AM",
+    "starting_point": "KP KHAJAMARKET",
+    "start_time": "8:00 AM",
     "seats": "36 Seats Available",
-    "money": "৳500.00"
+    "money": "৳700.00"
   },
   {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
-    "start_time": "6:30 AM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "PANTHAPATH",
-    "start_time": "06:30 AM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "ABDULLAHPUR",
-    "start_time": "06:30 AM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "6:45 AM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "EURO COACH",
+    "name": "GRAMEEN TRAVELS",
     "type": "Ac",
-    "starting_point": "Abdullahpur",
-    "start_time": "6:45 AM",
+    "starting_point": "Kallayanpur",
+    "start_time": "8:00 AM",
+    "seats": "17 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallaynpur",
+    "start_time": "8:00 AM",
+    "seats": "11 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 6",
+    "start_time": "08:00 AM",
+    "seats": "34 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur BRTC",
+    "start_time": "08:00 AM",
+    "seats": "38 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallyanpur",
+    "start_time": "8:15 AM",
+    "seats": "22 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "8:30 AM",
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
+    "start_time": "8:30 AM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Mohakhali -",
+    "start_time": "8:30 AM",
+    "seats": "17 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur [KP 4]",
+    "start_time": "08:30 AM",
+    "seats": "25 Seats Available",
+    "money": "৳750.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "08:45 AM",
+    "seats": "41 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 2",
+    "start_time": "08:45 AM",
+    "seats": "28 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "9:00 AM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "09:00 AM",
+    "seats": "41 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
+    "start_time": "9:15 AM",
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "9:30 AM",
+    "seats": "31 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallaynpur",
+    "start_time": "9:30 AM",
+    "seats": "15 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali -",
+    "start_time": "9:30 AM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallyanpur",
+    "start_time": "9:45 AM",
+    "seats": "23 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "9:45 AM",
+    "seats": "23 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "10:00 AM",
+    "seats": "34 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "KP KHAJAMARKET",
+    "start_time": "10:30 AM",
+    "seats": "35 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "10:30 AM",
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "10:30 AM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "10:30 AM",
+    "seats": "28 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "10:45 AM",
+    "seats": "30 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "11:00 AM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 6",
+    "start_time": "11:00 AM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "11:30 AM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali -",
+    "start_time": "11:30 AM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "11:30 AM",
     "seats": "38 Seats Available",
     "money": "৳800.00"
   },
   {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "06:45 AM",
-    "seats": "N/A",
-    "money": "৳1200.00"
-  },
-  {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "06:50 AM",
-    "seats": "N/A",
-    "money": "৳850.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
+    "name": "DESH TRAVELS",
     "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "7:00 AM",
-    "seats": "35 Seats Available",
-    "money": "৳650.00"
+    "starting_point": "Kallaynpur",
+    "start_time": "11:45 AM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "Maleker Bari",
-    "start_time": "7:00 AM",
+    "starting_point": "Kallyanpur",
+    "start_time": "12:00 PM",
     "seats": "36 Seats Available",
-    "money": "৳650.00"
+    "money": "৳690.00"
   },
   {
-    "name": "ISLAM PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Rainkhola",
-    "start_time": "7:00 AM",
-    "seats": "30 Seats Available",
-    "money": "৳700.00"
-  },
-  {
-    "name": "NOBEL PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Shibbari",
-    "start_time": "7:00 AM",
-    "seats": "40 Seats Available",
-    "money": "৳550.00"
-  },
-  {
-    "name": "HANIF ENTERPRISE",
-    "type": "NON_AC",
-    "starting_point": "Abdullahpur Bus Point-2",
-    "start_time": "07:00 AM",
-    "seats": "40 Seats Available",
-    "money": "৳600.00"
-  },
-  {
-    "name": "HANIF ENTERPRISE",
-    "type": "NON_AC",
-    "starting_point": "Sayedabad Bus Point",
-    "start_time": "07:00 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "HANIF ENTERPRISE",
-    "type": "NON_AC",
-    "starting_point": "Gulistan Bus point",
-    "start_time": "07:00 AM",
-    "seats": "41 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad",
-    "start_time": "7:15 AM",
-    "seats": "38 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SONARTORI PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Raenkhula ( Commerce college)",
-    "start_time": "7:15 AM",
-    "seats": "35 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "Abdullapur",
-    "start_time": "7:30 AM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "ABDULLAHPUR",
-    "start_time": "07:30 AM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad",
-    "start_time": "7:31 AM",
-    "seats": "40 Seats Available",
-    "money": "N/A"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "7:45 AM",
-    "seats": "38 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "ISLAM PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Rainkhola",
-    "start_time": "8:00 AM",
-    "seats": "40 Seats Available",
-    "money": "৳700.00"
-  },
-  {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "08:00 AM",
-    "seats": "N/A",
-    "money": "৳1200.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "8:15 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "8:30 AM",
-    "seats": "26 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad",
-    "start_time": "8:31 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "9:00 AM",
-    "seats": "34 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "9:30 AM",
-    "seats": "39 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "9:45 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "10:01 AM",
-    "seats": "39 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "10:30 AM",
-    "seats": "N/A",
-    "money": "৳1200.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "10:31 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "11:15 AM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "11:30 AM",
-    "seats": "40 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "MALIBAGH",
-    "start_time": "11:30 AM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "12:05 PM",
-    "seats": "N/A",
-    "money": "৳850.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Ac",
-    "starting_point": "Saydabad",
-    "start_time": "12:15 PM",
-    "seats": "36 Seats Available",
-    "money": "৳700.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "FP-01 No",
+    "starting_point": "Kallayanpur",
     "start_time": "12:30 PM",
     "seats": "36 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "12:30 PM",
+    "seats": "28 Seats Available",
+    "money": "৳750.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "12:45 PM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "1:15 PM",
+    "starting_point": "Kallyanpur",
+    "start_time": "1:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur [KP 4]",
+    "start_time": "01:00 PM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
+    "start_time": "1:30 PM",
     "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
+    "starting_point": "Kallayanpur",
+    "start_time": "1:30 PM",
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
     "start_time": "1:45 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 2",
+    "start_time": "01:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "Technical",
+    "starting_point": "Kallyanpur",
     "start_time": "2:00 PM",
     "seats": "36 Seats Available",
-    "money": "৳650.00"
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali -",
+    "start_time": "2:00 PM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "02:00 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallayanpur",
+    "start_time": "2:01 PM",
+    "seats": "29 Seats Available",
+    "money": "৳900.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "2:30 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallyanpur",
+    "start_time": "2:45 PM",
+    "seats": "27 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "3:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallaynpur",
+    "start_time": "3:00 PM",
+    "seats": "16 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Dampara",
+    "start_time": "3:00 PM",
+    "seats": "24 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur [KP 4]",
+    "start_time": "03:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "3:15 PM",
+    "seats": "27 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Jhawtala",
+    "start_time": "3:30 PM",
+    "seats": "16 Seats Available",
+    "money": "N/A"
   },
   {
     "name": "SHANTI PARIBAHAN",
     "type": "Non AC",
-    "starting_point": "Bhatapara",
-    "start_time": "2:00 PM",
-    "seats": "32 Seats Available",
+    "starting_point": "Khagrachori",
+    "start_time": "3:30 PM",
+    "seats": "31 Seats Available",
+    "money": "৳720.00"
+  },
+  {
+    "name": "SONYA ENTERPRISE",
+    "type": "Non AC",
+    "starting_point": "kaptai Jeti Gate",
+    "start_time": "3:30 PM",
+    "seats": "41 Seats Available",
     "money": "N/A"
   },
   {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "MALIBAGH",
-    "start_time": "02:00 PM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Maleker Bari",
-    "start_time": "2:30 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "02:30 PM",
-    "seats": "N/A",
-    "money": "৳1200.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "3:01 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad",
-    "start_time": "3:15 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "FP-01 No",
+    "starting_point": "Kallayanpur",
     "start_time": "3:30 PM",
     "seats": "36 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad",
-    "start_time": "4:01 PM",
-    "seats": "35 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "4:30 PM",
-    "seats": "40 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "04:30 PM",
-    "seats": "N/A",
-    "money": "৳1200.00"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "MALIBAGH",
-    "start_time": "04:30 PM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "Abdullapur",
-    "start_time": "5:00 PM",
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 2",
+    "start_time": "03:30 PM",
     "seats": "36 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "DESH TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad",
-    "start_time": "5:30 PM",
-    "seats": "40 Seats Available",
+    "starting_point": "Jhawtala",
+    "start_time": "3:45 PM",
+    "seats": "25 Seats Available",
     "money": "N/A"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "5:45 PM",
+    "starting_point": "Kallyanpur",
+    "start_time": "4:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
+    "start_time": "4:00 PM",
     "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "GREEN LINE",
-    "type": "AC",
-    "starting_point": "Arambagh-4",
-    "start_time": "06:00 PM",
-    "seats": "N/A",
-    "money": "৳850.00"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "MALIBAGH",
-    "start_time": "06:00 PM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "ISLAM PARIBAHAN",
+    "name": "CHAPAI EXPRESS",
     "type": "Non AC",
-    "starting_point": "Nabinagar-1",
-    "start_time": "6:30 PM",
+    "starting_point": "Baluchara",
+    "start_time": "4:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallayanpur",
+    "start_time": "4:00 PM",
     "seats": "28 Seats Available",
-    "money": "৳650.00"
+    "money": "৳1100.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "6:31 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "starting_point": "Steel Mill (E.P.Z)",
+    "start_time": "4:01 PM",
+    "seats": "34 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "DESH TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "7:01 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "MALIBAGH",
-    "start_time": "07:15 PM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
-  },
-  {
-    "name": "ISLAM PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Nabinagar-1",
-    "start_time": "7:30 PM",
+    "starting_point": "Kallaynpur",
+    "start_time": "4:15 PM",
     "seats": "32 Seats Available",
-    "money": "৳700.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "CHAPAI EXPRESS",
     "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "8:00 PM",
-    "seats": "40 Seats Available",
-    "money": "৳650.00"
+    "starting_point": "Potenga Chor Para",
+    "start_time": "4:15 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "NOBEL PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Shibbari",
-    "start_time": "8:00 PM",
-    "seats": "40 Seats Available",
-    "money": "৳600.00"
+    "name": "NATIONAL TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallyanpur",
+    "start_time": "4:30 PM",
+    "seats": "26 Seats Available",
+    "money": "৳1100.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "8:01 PM",
+    "starting_point": "Sonapur",
+    "start_time": "4:30 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali -",
+    "start_time": "4:30 PM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "4:30 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "04:30 PM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Jhawtala",
+    "start_time": "4:31 PM",
+    "seats": "32 Seats Available",
+    "money": "N/A"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "5:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "5:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Bayazid Bostami",
+    "start_time": "5:15 PM",
+    "seats": "26 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "05:30 PM",
+    "seats": "41 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "5:45 PM",
+    "seats": "34 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "6:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
+    "start_time": "6:00 PM",
     "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Dampara",
+    "start_time": "6:00 PM",
+    "seats": "28 Seats Available",
+    "money": "৳710.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "6:15 PM",
+    "seats": "31 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "06:30 PM",
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "6:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Dampara",
+    "start_time": "7:00 PM",
+    "seats": "31 Seats Available",
+    "money": "৳710.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP 6",
+    "start_time": "07:00 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "7:30 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "SATHI ENTERPRISE",
+    "type": "Non AC",
+    "starting_point": "Mirpur-12 Kalapani",
+    "start_time": "7:30 PM",
+    "seats": "22 Seats Available",
+    "money": "৳710.00"
+  },
+  {
+    "name": "AL-MOBARAK TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Square Masterbari - Bhaluka",
+    "start_time": "7:30 PM",
+    "seats": "44 Seats Available",
     "money": "৳500.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "JAMUNA TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
+    "starting_point": "Narayanganj",
+    "start_time": "7:30 PM",
+    "seats": "40 Seats Available",
+    "money": "৳720.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "7:45 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "SATHI ENTERPRISE",
+    "type": "Non AC",
+    "starting_point": "Kodomtoli",
+    "start_time": "8:00 PM",
+    "seats": "40 Seats Available",
+    "money": "৳710.00"
+  },
+  {
+    "name": "SATHI ENTERPRISE",
+    "type": "Non AC",
+    "starting_point": "Cumilla",
+    "start_time": "8:00 PM",
+    "seats": "30 Seats Available",
+    "money": "৳710.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "08:00 PM",
+    "seats": "41 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
     "start_time": "8:30 PM",
     "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "SATHI ENTERPRISE",
     "type": "Non AC",
-    "starting_point": "Technical",
+    "starting_point": "Mirpur-12 Kalapani",
+    "start_time": "8:45 PM",
+    "seats": "38 Seats Available",
+    "money": "৳710.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "9:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Narayangonj 02 No",
+    "start_time": "9:00 PM",
+    "seats": "35 Seats Available",
+    "money": "৳700.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "9:00 PM",
+    "seats": "33 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "CHAPAI EXPRESS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
     "start_time": "9:00 PM",
     "seats": "40 Seats Available",
-    "money": "৳650.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SONARTORI PARIBAHAN",
+    "name": "CHAPAI EXPRESS",
     "type": "Non AC",
-    "starting_point": "Raenkhula ( Commerce college)",
+    "starting_point": "E C B Chattar (Mathikata)",
     "start_time": "9:00 PM",
-    "seats": "41 Seats Available",
-    "money": "৳650.00"
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Maleker Bari",
-    "start_time": "9:01 PM",
-    "seats": "22 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
+    "starting_point": "Mohakhali",
     "start_time": "9:15 PM",
     "seats": "34 Seats Available",
-    "money": "৳600.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SONARTORI PARIBAHAN",
+    "name": "DESH TRAVELS",
     "type": "Non AC",
-    "starting_point": "Nabinagar",
+    "starting_point": "Mohakhali -",
     "start_time": "9:15 PM",
-    "seats": "41 Seats Available",
-    "money": "৳650.00"
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SONARTORI PARIBAHAN",
+    "name": "DESH TRAVELS",
     "type": "Non AC",
-    "starting_point": "Nabinagar",
-    "start_time": "9:30 PM",
-    "seats": "25 Seats Available",
-    "money": "৳650.00"
+    "starting_point": "Kallaynpur",
+    "start_time": "9:15 PM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
   },
   {
     "name": "SHYAMOLI NR TRAVELS",
     "type": "Non AC",
-    "starting_point": "Abdullapur",
+    "starting_point": "KP KHAJAMARKET",
     "start_time": "9:30 PM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "EURO COACH",
-    "type": "Ac",
-    "starting_point": "Abdullahpur",
-    "start_time": "9:45 PM",
-    "seats": "36 Seats Available",
-    "money": "৳800.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
-    "start_time": "9:45 PM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Ac",
-    "starting_point": "Saydabad",
-    "start_time": "9:45 PM",
     "seats": "36 Seats Available",
     "money": "৳700.00"
   },
   {
-    "name": "SHOHAGH PARIBAHAN (PVT) LTD",
-    "type": "AC",
-    "starting_point": "MALIBAGH",
+    "name": "CHAPAI TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Norda",
+    "start_time": "9:30 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "CHAPAI TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "9:45 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur [KP 4]",
     "start_time": "09:45 PM",
-    "seats": "12 Seats Available",
-    "money": "৳1200.0"
+    "seats": "37 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "NATIONAL TRAVELS",
     "type": "Non AC",
-    "starting_point": "Technical",
+    "starting_point": "Kallyanpur",
+    "start_time": "10:00 PM",
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
     "start_time": "10:00 PM",
     "seats": "40 Seats Available",
-    "money": "৳650.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SHYAMOLI NR TRAVELS",
+    "name": "CHAPAI EXPRESS",
     "type": "Non AC",
-    "starting_point": "RAINKHOLA MIRPUR COUNTER",
+    "starting_point": "E C B Chattar (Mathikata)",
     "start_time": "10:00 PM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
-    "start_time": "10:01 PM",
     "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "CHAPAI EXPRESS",
     "type": "Non AC",
-    "starting_point": "Nabinagar",
-    "start_time": "10:15 PM",
-    "seats": "39 Seats Available",
-    "money": "৳650.00"
+    "starting_point": "Kallayanpur",
+    "start_time": "10:00 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "10:15 PM",
-    "seats": "39 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "EURO COACH",
+    "name": "DESH TRAVELS",
     "type": "Ac",
-    "starting_point": "Abdullahpur",
+    "starting_point": "Mohakhali -",
+    "start_time": "10:00 PM",
+    "seats": "27 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "10:00 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "CHAPAI TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "10:00 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "10:15 PM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "CHAPAI EXPRESS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "10:15 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "10:15 PM",
+    "seats": "28 Seats Available",
+    "money": "৳750.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali",
+    "start_time": "10:20 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "SHYAMOLI NR TRAVELS",
+    "type": "Non AC",
+    "starting_point": "KP KHAJAMARKET",
     "start_time": "10:30 PM",
-    "seats": "39 Seats Available",
-    "money": "৳800.00"
-  },
-  {
-    "name": "SAKURA PARIBAHAN",
-    "type": "Non AC",
-    "starting_point": "Technical",
-    "start_time": "10:45 PM",
-    "seats": "40 Seats Available",
-    "money": "৳650.00"
-  },
-  {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA COUNTER",
-    "start_time": "10:45 PM",
     "seats": "36 Seats Available",
-    "money": "৳500.00"
+    "money": "৳700.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Saydabad Terminal -1",
+    "starting_point": "Kallayanpur",
+    "start_time": "10:30 PM",
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Mohakhali -",
     "start_time": "10:45 PM",
-    "seats": "40 Seats Available",
-    "money": "৳500.00"
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SHYAMOLI NR TRAVELS",
+    "name": "DESH TRAVELS",
     "type": "Non AC",
-    "starting_point": "Abdullapur",
+    "starting_point": "Kallaynpur",
+    "start_time": "10:45 PM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "10:45 PM",
+    "seats": "28 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
     "start_time": "11:00 PM",
-    "seats": "36 Seats Available",
-    "money": "৳500.00"
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SAKURA PARIBAHAN",
+    "name": "NATIONAL TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallyanpur",
+    "start_time": "11:00 PM",
+    "seats": "28 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallaynpur",
+    "start_time": "11:00 PM",
+    "seats": "23 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallayanpur",
+    "start_time": "11:00 PM",
+    "seats": "23 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Bijoynagar Bus Point",
+    "start_time": "11:00 PM",
+    "seats": "41 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur VIP Bus Point_NS",
+    "start_time": "11:00 PM",
+    "seats": "41 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
     "type": "Non AC",
-    "starting_point": "Technical",
+    "starting_point": "Kallayanpur",
     "start_time": "11:15 PM",
-    "seats": "40 Seats Available",
-    "money": "৳650.00"
+    "seats": "35 Seats Available",
+    "money": "৳690.00"
   },
   {
-    "name": "SHYAMOLI NR TRAVELS",
-    "type": "Non AC",
-    "starting_point": "RAINKHOLA COUNTER",
+    "name": "KTC HANIF",
+    "type": "AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "11:15 PM",
+    "seats": "28 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallyanpur",
+    "start_time": "11:30 PM",
+    "seats": "28 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallaynpur",
+    "start_time": "11:30 PM",
+    "seats": "21 Seats Available",
+    "money": "৳1100.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Ac",
+    "starting_point": "Kallayanpur",
+    "start_time": "11:45 PM",
+    "seats": "30 Seats Available",
+    "money": "৳900.00"
+  },
+  {
+    "name": "HANIF ENTERPRISE",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
     "start_time": "11:55 PM",
-    "seats": "34 Seats Available",
-    "money": "৳500.00"
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "KTC HANIF",
+    "type": "NON_AC",
+    "starting_point": "Kallyanpur KP1",
+    "start_time": "11:55 PM",
+    "seats": "40 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "NATIONAL TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallyanpur",
+    "start_time": "11:59 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "GRAMEEN TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallayanpur",
+    "start_time": "11:59 PM",
+    "seats": "36 Seats Available",
+    "money": "৳690.00"
+  },
+  {
+    "name": "DESH TRAVELS",
+    "type": "Non AC",
+    "starting_point": "Kallaynpur",
+    "start_time": "11:59 PM",
+    "seats": "32 Seats Available",
+    "money": "৳690.00"
   }
 ]
