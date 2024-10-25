@@ -10,6 +10,9 @@ The Bus Search Scraper simplifies accessing bus ticketing data programmatically,
 
 You can access the live project here:
 - [https://bussearch.up.railway.app/scrape?from=dhaka&to=rajshahi&date=2024-10-26](https://bussearch.up.railway.app/scrape?from=dhaka&to=rajshahi&date=2024-10-26)
+- There is a catch which is you can not see all the time using same link provided here because the date is variable the previous date will not working so you need to manually change the variables like that
+- https://bussearch.up.railway.app/scrape?from=${from-field}&${to-field}=rajshahi&date=${date: YYYY-MM-DD}
+## Replace localhost:3000 with https://bussearch.up.railway.app to access the live version.
 
 ## API Endpoint Overview
 
@@ -20,6 +23,19 @@ You can access the live project here:
   - `from`: The starting location of the trip (required).
   - `to`: The destination location of the trip (required).
   - `date`: Date of travel in the format `YYYY-MM-DD` (required).
+
+## Usage
+
+Once the server is running, you can make GET requests to the `/scrape` endpoint with the required parameters to retrieve bus schedule information.
+
+### Query Parameters
+
+| Parameter | Description                    | Required | Format       |
+|-----------|--------------------------------|----------|--------------|
+| `from`    | Starting location of the trip  | Yes      | `string`     |
+| `to`      | Destination location of the trip | Yes      | `string`     |
+| `date`    | Date of travel                 | Yes      | `YYYY-MM-DD` |
+
 - **Example Request**:
  ### GET /scrape?from=dhaka&to=rajshahi&date=2024-10-26
  
@@ -43,3 +59,40 @@ You can access the live project here:
     "money": "800 BDT"
   }
 ]
+```
+# Features
+- Multi-source Data: Scrapes bus information from multiple sources, combining results for better coverage.
+- Flexible Querying: Allows users to specify from, to, and date parameters dynamically.
+- Optimized Performance: Utilizes concurrent scraping for faster data retrieval.
+## Requirements
+### To run this project locally, ensure you have:
+- Node.js (version 14 or higher)
+- npm (Node Package Manager)
+# Setup and Installation
+### Clone the Repository
+```bash
+git clone https://github.com/Nafiziqbal-Perdita/bus.git
+cd your-repo
+npm install
+node index.js
+```
+
+
+### Example Request
+
+For bus schedules and prices from Dhaka to Rajshahi on October 26, 2024, use:
+
+```bash
+curl "http://localhost:3000/scrape?from=dhaka&to=rajshahi&date=2024-10-26"
+```
+
+### Explanation
+
+- **Curl Command**: The `curl` command is included as an example of how to make a GET request to your API.
+- **Backticks**: The commands are enclosed in triple backticks with `bash` specified for syntax highlighting.
+- **Table Format**: The query parameters are presented in a clean table format for easy reading. 
+
+You can simply copy and paste this code into your README file.
+
+
+
