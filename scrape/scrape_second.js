@@ -43,6 +43,7 @@ const url = `https://www.shohoz.com/booking/bus/search?fromcity=${from}&tocity=$
     timeout: 0,
   });
 
+  console.log("getting from first web");
   await page.waitForSelector(".trip-list-container", {
     visible: true,
   });
@@ -86,7 +87,7 @@ const url = `https://www.shohoz.com/booking/bus/search?fromcity=${from}&tocity=$
 
 
   await browser.close();
-  
+  console.log("Done from first web");
   // Return the scraped data (if needed by the Express server)
   return ticketItems;
 }

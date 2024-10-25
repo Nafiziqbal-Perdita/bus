@@ -27,7 +27,7 @@ async function scrapeWebsite(from,to,date) {
     waitUntil: "networkidle0",
     timeout: 0,
   });
-
+  console.log("getting from second web");
   // Wait for the specific element to load before scraping
   await page.waitForSelector(".container", {
     visible: true,
@@ -62,7 +62,7 @@ async function scrapeWebsite(from,to,date) {
 
 
   await browser.close();
-  
+  console.log("Done from second web");
   // Return the scraped data (if needed by the Express server)
   return ticketItems;
 }
