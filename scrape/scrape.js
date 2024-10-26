@@ -50,6 +50,7 @@ async function scrapeWebsite(from,to,date) {
           start_time: spans[3]?.innerText || "N/A",
           seats: spans[5]?.innerText || "N/A",
           money: money,
+          source:"BdTickets"
         };
         items.push(res);
       }
