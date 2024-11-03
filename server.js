@@ -2,7 +2,7 @@ const express = require("express");
 const scrapeWebsite = require("./scrape/scrape"); // Import the scrape function
 const scrapeWebsite_second = require("./scrape/scrape_second");
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 const cors=require("cors");
 
 // Middleware to parse JSON bodies (for POST requests)
